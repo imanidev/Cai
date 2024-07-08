@@ -5,9 +5,9 @@ Cai is a friendly conversational AI chatbot designed to assist users with variou
 ## Features
 
 - **Natural Language Understanding**: Cai leverages state-of-the-art natural language processing techniques to comprehend user queries and provide relevant responses.
-  
+
 - **Empathetic Responses**: Cai is programmed to offer empathetic and supportive responses, making interactions feel personalized and friendly.
-  
+
 - **Task Automation**: Beyond conversation, Cai can perform tasks such as fetching information, providing recommendations, and more, based on user requests.
 
 ## Getting Started
@@ -47,7 +47,7 @@ Contributions are welcome! If you have ideas for improving Cai or want to add ne
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
