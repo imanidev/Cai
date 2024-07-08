@@ -1,8 +1,12 @@
+from dotenv import load_dotenv
 import os
-import time
 from groq import Groq
-from config import GROQ_API_KEY
 from textblob import TextBlob
+
+
+load_dotenv()
+
+GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 
 client = Groq(api_key=GROQ_API_KEY)
 
