@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```
 
 ## Set up Your Groq API Key:
-1. Sign up for the Groq API at Groq's website.
+1. Sign up for the Groq API on Groq's [webiste](https://groq.com/).
 
 2. Create a `.env` file in the root directory of the project.
 
